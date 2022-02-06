@@ -5,7 +5,7 @@
 
 Welcome to amplify-app-testing's documentation!
 ===============================================
-Adding some material here to test the build operations
+Adding some material here to test the build operations. Final effort!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
