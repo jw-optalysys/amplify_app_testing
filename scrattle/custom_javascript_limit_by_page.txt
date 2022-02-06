@@ -1,0 +1,8 @@
+{% extends "!layout.html" %}
+
+{%- block extrahead %}
+<meta name="sourcename" content="{{ sourcename }}" />
+{% if "doc-2" in sourcename %}
+  <script type="text/javascript" src="./_static/custom.js"></script>
+{% endif %}
+{% endblock %}
