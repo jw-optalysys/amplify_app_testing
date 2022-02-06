@@ -1,0 +1,25 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyapptesting-staging-201427-authRole",
+      "UnauthRoleArn": "arn:aws:iam::263522336723:role/amplify-amplifyapptesting-staging-201427-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::263522336723:role/amplify-amplifyapptesting-staging-201427-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-amplifyapptesting-staging-201427-deployment",
+      "UnauthRoleName": "amplify-amplifyapptesting-staging-201427-unauthRole",
+      "StackName": "amplify-amplifyapptesting-staging-201427",
+      "StackId": "arn:aws:cloudformation:eu-west-1:263522336723:stack/amplify-amplifyapptesting-staging-201427/63245ec0-8789-11ec-9bf5-06a017abb109",
+      "AmplifyAppId": "dcugs5jg6d3m9"
+    },
+    "categories": {
+      "auth": {
+        "amplifyapptesting": {
+          "userPoolId": "eu-west-1_QLZhzSObW",
+          "userPoolName": "AppTesting",
+          "webClientId": "11e47qm43729i0b95k8lh1q8n6",
+          "nativeClientId": "11e47qm43729i0b95k8lh1q8n6"
+        }
+      }
+    }
+  }
+}
